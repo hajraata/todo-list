@@ -1,0 +1,7 @@
+{
+  "todoItems": [
+    { "id": 1, "task": "Wash dishes.", "completed": true },
+    { "id": 2, "task": "Mow the lawn.", "completed": false },
+    { "id": 3, "task": "Feed the cat.", "completed": true }
+  ]
+}
